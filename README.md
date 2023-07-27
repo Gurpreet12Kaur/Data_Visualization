@@ -1,1 +1,4 @@
 # Data_Visualization
+In this task, I must put my knowledge of Matplotlib to practical use by working on a real-world project at Pymaceuticals, a pharmaceutical company specializing in anti-cancer meds. They conducted a study on 249 mice with squamous cell carcinoma (skin cancer). The mice received different drug treatments, and tumor development was tracked over 45 days. The goal is to compare Capomulin's performance to other treatments. As a senior data analyst, you'll create tables and figures for the technical report and summarize the study results for the executive team.
+
+During this challenge I had help from ASK BCS as I had an error with my code when I was making all the graphs after the boxplot, they all had the same error. I also watched some youtube videos. I had some trouble doing the line scatter plot but the rest was good. 
